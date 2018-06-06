@@ -1,0 +1,6 @@
+return {
+
+	-- Command Prefix
+	commandPrefix = '!'
+
+}
